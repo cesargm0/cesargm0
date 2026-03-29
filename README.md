@@ -12,7 +12,7 @@
 📘 Estudante de Ciência da Computação <br>
 🏫 Universidade de Brasília - UNB <br>
 🌱 Estudando Python e JavaScript <br>
-❤️ Interesse em programação e segurança <br>
+📍 Interesse em programação e segurança <br>
 
 <!-- TECNOLOGIAS -->
 # 🛠️ Tecnologias & Ferramentas
