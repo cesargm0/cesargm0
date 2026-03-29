@@ -1,7 +1,3 @@
-<!-- BANNER -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=200&section=header&text=Paulo%20César&fontSize=40&fontColor=ffffff" />
-</p>
 > Status: In Development
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
