@@ -11,6 +11,6 @@
 
 <!-- TECNOLOGIAS -->
 # 🛠️ Tecnologias & Ferramentas
-[![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)](https://github.com/thomasdacosta)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://github.com/thomasdacosta)
-[![Python](https://img.shields.io/badge/-Python-red?style=flat-square&logo=python&logoColor=white)](https://github.com/thomasdacosta)
+[![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)]
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)]
+[![Python](https://img.shields.io/badge/-Python-red?style=flat-square&logo=python&logoColor=white)]
