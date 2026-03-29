@@ -16,7 +16,7 @@
 
 <!-- TECNOLOGIAS -->
 # 🛠️ Tecnologias & Ferramentas
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-red?style=flat-square&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Python-red?style=flat-square&logo=python&logoColor=white" height="40">
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
