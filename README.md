@@ -2,9 +2,9 @@
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=200&section=header&text=Paulo%20César&fontSize=40&fontColor=ffffff" />
 </p>
-
 - 📘 Estudante de Ciência da Computação pela UNB
 - 🌱 Estudando Python e JavaScript
+- ❤️ Interesse em programação e segurança
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
