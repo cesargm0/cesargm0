@@ -9,7 +9,7 @@
 
 <!-- SOBRE MIM -->
 # 🧑🏻‍🦱 Sobre Mim
-- 📘 Bacharelado em Ciência da Computação
+- 📘 Bacharelando em Ciência da Computação
 - 🏫 Universidade de Brasília - UNB
 - 🌱 Estudando Python e JavaScript
 - ❤️ Interesse em programação e segurança
