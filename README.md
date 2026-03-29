@@ -9,8 +9,4 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<div align="center">
-  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
-  <h1 style="font-size: 28px; margin: 10px 0;">GitHub Readme Stats</h1>
-  <p>Get dynamically generated GitHub stats on your READMEs!</p>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?cesargm0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
