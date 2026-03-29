@@ -4,7 +4,7 @@
 
 <div align="center">
         <a href="https://git.io/typing-svg">
-                <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=9B19F7&center=true&vCenter=true&width=1000&lines=Eu+sou+o+Paulo+César+%3Ap;+Estudante+de+Ciência+da+Computação" alt="Typing SVG" />
+                <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=9B19F7&center=true&vCenter=true&width=1000&lines=Sou+o+Paulo+César+:);+Entusiasta+de+sistemas+e+desenvolvimento" alt="Typing SVG" />
         </a>
 
 <!-- SOBRE MIM -->
