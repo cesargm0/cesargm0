@@ -1,8 +1,6 @@
-## Olá! Aqui é o Paulo César
-
 <!-- BANNER -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=200&section=header&text=Rosemeire%20Deconti&fontSize=40&fontColor=ffffff" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=200&section=header&text=Paulo%20César&fontSize=40&fontColor=ffffff" />
 </p>
 
 - 📘 Estudante de Ciência da Computação pela UNB
