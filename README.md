@@ -16,20 +16,11 @@
 
 <!-- TECNOLOGIAS -->
 # 🛠️ Tecnologias & Ferramentas
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40">
-
 <div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/NoSQL-0052CC?style=for-the-badge&logo=databricks&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="40">
-  <br>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40">
-  <img src="https://img.shields.io/badge/Android_API_30-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/Xcode_10-1575F9?style=for-the-badge&logo=xcode&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40">
 </div>
         
 </p>
