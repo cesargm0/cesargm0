@@ -1,5 +1,10 @@
 ## Olá! Aqui é o Paulo César
 
+<!-- BANNER -->
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=200&section=header&text=Rosemeire%20Deconti&fontSize=40&fontColor=ffffff" />
+</p>
+
 - 📘 Estudante de Ciência da Computação pela UNB
 - 🌱 Estudando Python e JavaScript
 
@@ -8,7 +13,3 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-(https://github-readme-stats.vercel.app/api?cesargm0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
