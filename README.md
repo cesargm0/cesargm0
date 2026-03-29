@@ -9,10 +9,10 @@
 
 <!-- SOBRE MIM -->
 # 🧑🏻‍🦱 Sobre Mim
-- 📘 Estudante de Ciência da Computação
-- 🏫 Universidade de Brasília - UNB
-- 🌱 Estudando Python e JavaScript
-- ❤️ Interesse em programação e segurança
+📘 Estudante de Ciência da Computação <br>
+🏫 Universidade de Brasília - UNB <br>
+🌱 Estudando Python e JavaScript <br>
+❤️ Interesse em programação e segurança <br>
 
 <!-- TECNOLOGIAS -->
 # 🛠️ Tecnologias & Ferramentas
