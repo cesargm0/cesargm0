@@ -4,7 +4,7 @@
 </p>
 
 <!-- SOBRE MIM -->
-# 👦🧑🏻‍🦱 Sobre Mim
+# 🧑🏻‍🦱 Sobre Mim
 - 📘 Estudante de Ciência da Computação pela UNB
 - 🌱 Estudando Python e JavaScript
 - ❤️ Interesse em programação e segurança
