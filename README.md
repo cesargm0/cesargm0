@@ -9,9 +9,9 @@
 
 <!-- SOBRE MIM -->
 # 🧑🏻‍🦱 Sobre Mim
-📘 Estudante de Ciência da Computação pela UNB
-🌱 Estudando Python e JavaScript
-❤️ Interesse em programação e segurança
+- 📘 Estudante de Ciência da Computação pela UNB
+- 🌱 Estudando Python e JavaScript
+- ❤️ Interesse em programação e segurança
 
 <!-- TECNOLOGIAS -->
 # 🛠️ Tecnologias & Ferramentas
