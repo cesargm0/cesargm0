@@ -9,7 +9,8 @@
 - 🌱 Estudando Python e JavaScript
 - ❤️ Interesse em programação e segurança
 
-  
+
+   
 
 <!-- TECNOLOGIAS -->
 # 🛠️ Tecnologias & Ferramentas
